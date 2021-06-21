@@ -10,7 +10,7 @@ Performed following task
 6.    Model performance evaluation
 7.    Actionable Insights & Recommendations
 
-For details check :predict-used-car-prices-linearregression.ipynb
+To check the Notebook click [here](https://github.com/yogitadarade/PredictCarPrices-LinearRegression/blob/fec6fc28e1b34caba71c5143a7a8ed6af8815904/predict-used-car-prices-linearregression.ipynb)
 
 **Context** 
 
