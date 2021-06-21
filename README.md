@@ -1,5 +1,16 @@
-# Predict Car Prices  Using LinearRegression.
 
+
+# Predict Car Prices  Using LinearRegression.
+Performed following task
+1.    Define the problem and perform an Exploratory Data Analysis
+2.    Illustrate the insights based on EDA.
+3.    Data pre-processing
+4.    Model building - Linear Regression
+5.    Test assumptions of linear regression model
+6.    Model performance evaluation
+7.    Actionable Insights & Recommendations
+
+for details check :
 **Context** 
 
 There is a huge demand for used cars in the Indian Market today. As sales of new cars have slowed down in the recent past, the pre-owned car market has continued to grow over the past years and is larger than the new car market now. Cars4U is a budding tech start-up that aims to find footholes in this market.
