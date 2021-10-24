@@ -34,7 +34,7 @@ Using Cars4U dataset, need to come up with a pricing model that can effectively 
     - Fuel_Type
     - OwnerType
     - Transmission - Automatic/Manual
-3. Newer cars sell for higher prices. 1 unit increease  in age  of the car leads to [ exp(0.1123) = 1.12 Lakh ] decrease in the price of the vehicle, when everything else is constant.
+3. Newer cars sell for higher prices. 1 unit increase  in age  of the car leads to [ exp(0.1123) = 1.12 Lakh ] decrease in the price of the vehicle, when everything else is constant.
 4. As the number of seats increases, the price of the car increases - exp(0.05) = 1.05 Lakhs
 5. Mileage is inversely correlated with Price. Generally, high mileage cars are the lower budget cars.    
 6. Kilometers Driven have a negative relationship with the price which is intuitive. A car that has been driven more will have more wear and tear and hence sell at a lower price, everything else being 0.
